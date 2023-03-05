@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 # image path
-path = r's.jpg'
+path = r'img0.jpg'
 
 # using imread()
 img = cv2.imread(path)
